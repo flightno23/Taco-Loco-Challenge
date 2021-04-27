@@ -12,6 +12,8 @@ http://localhost:9001/calculateTotal/
 
 port: 9001
 
+Note: The application applies a discount of 20% to the order total.
+
 
 
 
