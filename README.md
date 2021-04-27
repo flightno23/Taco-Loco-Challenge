@@ -7,6 +7,11 @@ Prerequisites:
 Java 9+
 Maven 3.x
 
+Endpoint to execute:
+http://localhost:9001/calculateTotal/
+
+port: 9001
+
 
 
 
